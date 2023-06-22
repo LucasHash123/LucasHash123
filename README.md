@@ -3,7 +3,7 @@
 - 🔭 Hoje estou a procura de um emprego de Dev
 - 🌱 Estou cursando Engenharia de Software
 - 🤔 Estou aprendendo Programação
-- 💬 Contate-me no email: lucas090691@gmail.com
+- 💬 Contate-me no email: lucastrabalho1103@gmail.com
 - 😄 Meu objetivo é ficar melhor a cada dia
 
 <div align="center">
