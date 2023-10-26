@@ -20,7 +20,7 @@
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50%;" src="file:///C:/Users/lucas/Downloads/Design%20sem%20nome%20(2)%20(1).png">
+  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50%;" src="https://cdn.discordapp.com/attachments/493296689357258763/1167135852309262356/Design_sem_nome_2_1.png?ex=654d06f7&is=653a91f7&hm=df902fcf77409d7899218449955d386ca11157f3c2520e68dc1958dfa7b16142&">
 </div>
   
   ##
