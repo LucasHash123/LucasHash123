@@ -1,7 +1,7 @@
 ## Olá! eu sou Lucas Santos ✌🏽
 
 - 🔭 Hoje estou a procura de um emprego de Dev
-- 🌱 Estou cursando Engenharia de Software
+- 🌱 Sou formado em Engenharia de Software
 - 🤔 Estou aprendendo Programação
 - 💬 Contate-me no email: lucastrabalho1103@gmail.com
 - 😄 Meu objetivo é ficar melhor a cada dia
